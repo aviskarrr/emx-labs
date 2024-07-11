@@ -1,0 +1,19 @@
+@CACHEFILEVERSION 2
+@DOUBLE
+-mw/2#
+-1.43
+-mw/2# -inw/2#
+-1.8
+mw/2#
+1.43
+mw/2# +inw/2#
+1.8
+pl/2#
+14.75
+pl/2# -inl
+5.75
+sh
+1.5
+sh +mt
+1.535
+@LONG

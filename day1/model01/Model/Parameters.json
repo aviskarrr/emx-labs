@@ -1,0 +1,59 @@
+{
+    "parameters": [
+        {
+            "descr": "length of ground",
+            "expr": "59",
+            "name": "sl",
+            "value": "59"
+        },
+        {
+            "descr": "width of ground",
+            "expr": "76",
+            "name": "sw",
+            "value": "76"
+        },
+        {
+            "descr": "thickness of ground",
+            "expr": "0.035",
+            "name": "mt",
+            "value": "0.035"
+        },
+        {
+            "descr": "sh of substrate",
+            "expr": "1.5",
+            "name": "sh",
+            "value": "1.5"
+        },
+        {
+            "descr": "patch length",
+            "expr": "29.5",
+            "name": "pl",
+            "value": "29.5"
+        },
+        {
+            "descr": "patch width",
+            "expr": "38",
+            "name": "pw",
+            "value": "38"
+        },
+        {
+            "descr": "width ",
+            "expr": "2.86",
+            "name": "mw",
+            "value": "2.86"
+        },
+        {
+            "descr": "length of insert",
+            "expr": "9",
+            "name": "inl",
+            "value": "9"
+        },
+        {
+            "descr": "eidth of insert",
+            "expr": "0.74",
+            "name": "inw",
+            "value": "0.74"
+        }
+    ],
+    "version": 1
+}
