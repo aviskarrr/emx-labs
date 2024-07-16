@@ -1,0 +1,490 @@
+[10:09:25] -------- TetMesher Log --------
+[10:09:25] Build Number: 20230504; ID: 2023.4 Release from 2023-05-04 (change 1108613); Date: 2023-05-04; ACIS version: 32.0.1, SPAresabs & SPAresnor: 1e-06, 1e-10; Problem class: High Frequency
+[10:09:25] Temporary directory: "E:\STUDY\3rd Sem\EMX\Projects\emx-labs\day2\model02\Temp\1-temp.tet"
+[10:09:25] - Reading information
+[10:09:25] - Building single body
+[10:09:25] Found 483 faces.
+[10:09:25] Choosing Advanced Boolean Loop...
+[10:09:25] Volume Attributes enabled
+[10:09:25] Attaching Volume Attributes
+[10:09:25] Sorted out 80 special bodies.
+[10:09:25] Processing 2 entities.
+[10:09:25] Queue Size: 1
+[10:09:25] Combining solid component1:ground and solid component1:solid1 (Pair #1 out of 1)
+[10:09:25] Exiting Boolean Unite Module.
+[10:09:25] Added Compound Body (ID: 28, 36) to model
+[10:09:25] Added background material (ID: 1) to model
+[10:09:25] Added background material (extended) (ID: 63) to model
+[10:09:25] Added background material (extended) (ID: 90) to model
+[10:09:25] Added background material (extended) (ID: 117) to model
+[10:09:25] Added background material (extended) (ID: 144) to model
+[10:09:25] Added background material (extended) (ID: 171) to model
+[10:09:25] Added background material (extended) (ID: 198) to model
+[10:09:25] Added background material (extended) (ID: 225) to model
+[10:09:25] Added background material (extended) (ID: 252) to model
+[10:09:25] Added background material (extended) (ID: 279) to model
+[10:09:25] Added background material (extended) (ID: 306) to model
+[10:09:25] Added background material (extended) (ID: 333) to model
+[10:09:25] Added background material (extended) (ID: 360) to model
+[10:09:25] Added background material (extended) (ID: 387) to model
+[10:09:25] Added background material (extended) (ID: 414) to model
+[10:09:25] Added background material (extended) (ID: 441) to model
+[10:09:25] Added background material (extended) (ID: 468) to model
+[10:09:25] Added background material (extended) (ID: 495) to model
+[10:09:25] Added background material (extended) (ID: 522) to model
+[10:09:25] Added background material (extended) (ID: 549) to model
+[10:09:25] Added background material (extended) (ID: 576) to model
+[10:09:25] Added background material (extended) (ID: 603) to model
+[10:09:25] Added background material (extended) (ID: 630) to model
+[10:09:25] Added background material (extended) (ID: 657) to model
+[10:09:25] Added background material (extended) (ID: 684) to model
+[10:09:25] Added background material (extended) (ID: 711) to model
+[10:09:25] Added background material (extended) (ID: 738) to model
+[10:09:25] Added background material (extended) (ID: 765) to model
+[10:09:25] Added background material (extended) (ID: 792) to model
+[10:09:25] Added background material (extended) (ID: 819) to model
+[10:09:25] Added background material (extended) (ID: 846) to model
+[10:09:25] Added background material (extended) (ID: 873) to model
+[10:09:25] Added background material (extended) (ID: 900) to model
+[10:09:25] Added background material (extended) (ID: 927) to model
+[10:09:25] Added background material (extended) (ID: 954) to model
+[10:09:25] Added background material (extended) (ID: 981) to model
+[10:09:25] Added background material (extended) (ID: 1008) to model
+[10:09:25] Added background material (extended) (ID: 1035) to model
+[10:09:25] Added background material (extended) (ID: 1062) to model
+[10:09:25] Added background material (extended) (ID: 1089) to model
+[10:09:25] Added background material (extended) (ID: 1116) to model
+[10:09:25] Added background material (extended) (ID: 1143) to model
+[10:09:25] Added background material (extended) (ID: 1170) to model
+[10:09:25] Added background material (extended) (ID: 1197) to model
+[10:09:25] Added background material (extended) (ID: 1224) to model
+[10:09:26] Added background material (extended) (ID: 1251) to model
+[10:09:26] Added background material (extended) (ID: 1278) to model
+[10:09:26] Added background material (extended) (ID: 1305) to model
+[10:09:26] Added background material (extended) (ID: 1332) to model
+[10:09:26] Added background material (extended) (ID: 1359) to model
+[10:09:26] Added background material (extended) (ID: 1386) to model
+[10:09:26] Added background material (extended) (ID: 1413) to model
+[10:09:26] Added background material (extended) (ID: 1440) to model
+[10:09:26] Added background material (extended) (ID: 1467) to model
+[10:09:26] Added background material (extended) (ID: 1494) to model
+[10:09:26] Added background material (extended) (ID: 1521) to model
+[10:09:26] Added background material (extended) (ID: 1548) to model
+[10:09:26] Added background material (extended) (ID: 1575) to model
+[10:09:26] Added background material (extended) (ID: 1602) to model
+[10:09:26] Added background material (extended) (ID: 1629) to model
+[10:09:26] Added background material (extended) (ID: 1656) to model
+[10:09:26] Added background material (extended) (ID: 1683) to model
+[10:09:26] Added background material (extended) (ID: 1710) to model
+[10:09:26] Added background material (extended) (ID: 1737) to model
+[10:09:26] Added background material (extended) (ID: 1764) to model
+[10:09:26] Added background material (extended) (ID: 1791) to model
+[10:09:26] Added background material (extended) (ID: 1818) to model
+[10:09:26] Added background material (extended) (ID: 1845) to model
+[10:09:26] Added background material (extended) (ID: 1872) to model
+[10:09:26] Added background material (extended) (ID: 1899) to model
+[10:09:26] Added background material (extended) (ID: 1926) to model
+[10:09:26] Added background material (extended) (ID: 1953) to model
+[10:09:26] Added background material (extended) (ID: 1980) to model
+[10:09:26] Added background material (extended) (ID: 2007) to model
+[10:09:26] Added background material (extended) (ID: 2034) to model
+[10:09:26] Added background material (extended) (ID: 2061) to model
+[10:09:26] Added background material (extended) (ID: 2088) to model
+[10:09:26] Added background material (extended) (ID: 2115) to model
+[10:09:26] Added background material (extended) (ID: 2142) to model
+[10:09:26] Added discrete port 1 (ID: 2169) to model
+[10:09:26] - Storing model cells
+[10:09:26] [CADSurf] - Mesh sizes: global mesh size near to model = 1.0000000000000000e+01
+              min requested = 1.0000000000000000e+01
+              max requested = 3.6238186921833638e+01
+[10:09:26] [CADSurf] MeshGems Version: MeshGems-Core 2.14-5
+[10:09:26] [CADSurf] === Begin: PreCAD-related parameters ===
+[10:09:26] [CADSurf] == CADSurf Parameters == 
+[10:09:26] [CADSurf] meshgems_cadsurf_set_param(css, "use_precad",  "yes")
+[10:09:26] [CADSurf] Bounding box diagonal = 4.4093784121971368e+02
+[10:09:26] [CADSurf] meshgems_cadsurf_set_param(css, "remove_nano_edges",  "0")
+[10:09:26] [CADSurf] meshgems_cadsurf_set_param(css, "discard_input_topology",  "0")
+[10:09:26] [CADSurf] meshgems_cadsurf_set_param(css, "process_3d_topology",  "0")
+[10:09:26] [CADSurf] meshgems_cadsurf_set_param(css, "discard_input_2d_topology",  "0")
+[10:09:26] [CADSurf] Default periodic tolerance (1e-4*diag) = 4.4093784121971367e-02
+[10:09:26] [CADSurf] Minimum periodic tolerance = 1.0000000000000001e-05
+[10:09:26] [CADSurf] Setting it to max( 1.0000000000000001e-05, 4.4093784121971367e-02 )
+[10:09:26] [CADSurf] meshgems_cadsurf_set_param(css, "periodic_tolerance",  "0.044093784121971367")
+[10:09:26] [CADSurf] meshgems_cadsurf_set_param(css, "remove_duplicate_cad_faces",  "0")
+[10:09:26] [CADSurf] meshgems_cadsurf_set_param(css, "remove_tiny_uv_edges",  "0")
+[10:09:26] [CADSurf] === End: PreCAD-related parameters ===
+[10:09:26] [CADSurf] ==
+[10:09:26] [CADSurf] == CADSurf Parameters == 
+[10:09:26] [CADSurf] meshgems_cadsurf_set_param(css, "verbose",  "3")
+[10:09:26] [CADSurf] meshgems_cadsurf_set_param(css, "geometric_size_mode",  "local")
+[10:09:26] [CADSurf] meshgems_cadsurf_set_param(css, "physical_size_mode",  "local")
+[10:09:26] [CADSurf] 	 Max user size    = 3.6238186921833638e+01
+[10:09:26] [CADSurf] 	 Global size near = 1.0000000000000000e+01
+[10:09:26] [CADSurf] 	 Global size far  = 3.6238186921833645e+01
+[10:09:26] [CADSurf] 	 Upper size bound = 3.6238186921833645e+01
+[10:09:26] [CADSurf] meshgems_cadsurf_set_param(css, "max_size",  "36.238186921833645")
+[10:09:26] [CADSurf] 	Calculating min. mesh size for CADSurf...
+[10:09:26] [CADSurf] 	Diagonal of model + background box: 4.4093784121971368e+02
+[10:09:26] [CADSurf] 	Min. mesh size by diagonal (1e-3 x diagonal): 4.4093784121971369e-01
+[10:09:26] [CADSurf] 	Diagonal of model: 1.4527295997535123e+02
+[10:09:26] [CADSurf] 	Min. mesh size of model: 1.0000000000000000e+01
+[10:09:26] [CADSurf] 	Max. cell defined by user (near to model): 1.0000000000000000e+01
+[10:09:26] [CADSurf] 	Min. cell defined by user: 0.0000000000000000e+00
+[10:09:26] [CADSurf] 	Min. cell used for calculation: 1.0000000000000001e-01
+[10:09:26] [CADSurf] 	Note: min. mesh size by diagonal is too large, consider using (0.01 x max. cell = 1.0000000000000001e-01)
+[10:09:26] [CADSurf] Geometric refinement uses "min_size" setting.
+[10:09:26] [CADSurf] CADSurf "min_size" is set to min. cell: 1.0000000000000001e-01
+[10:09:26] [CADSurf] meshgems_cadsurf_set_param(css, "min_size",  "0.10000000000000001")
+[10:09:26] [CADSurf] meshgems_cadsurf_set_param(css, "max_number_of_points_per_patch",  "0")
+[10:09:26] [CADSurf] meshgems_cadsurf_set_param(css, "element_generation",  "local")
+[10:09:26] [CADSurf] Setting Triangle as default element type
+[10:09:26] [CADSurf] meshgems_cadsurf_set_param(css, "gradation",  "1.5")
+[10:09:26] [CADSurf] meshgems_cadsurf_set_param(css, "volume_gradation",  "2")
+[10:09:26] [CADSurf] meshgems_cadsurf_set_param(css, "patch_independent",  "0")
+[10:09:26] [CADSurf] meshgems_cadsurf_set_param(css, "remove_tiny_edges",  "0")
+[10:09:26] [CADSurf] meshgems_cadsurf_set_param(css, "optimise_tiny_edges",  "0")
+[10:09:26] [CADSurf] meshgems_cadsurf_set_param(css, "tiny_edge_respect_geometry",  "1")
+[10:09:26] [CADSurf] meshgems_cadsurf_set_param(css, "CheckWellDefined",  "8")
+[10:09:26] [CADSurf] meshgems_cadsurf_set_param(css, "anisotropic",  "1")
+[10:09:26] [CADSurf] meshgems_cadsurf_set_param(css, "anisotropic_ratio",  "5")
+[10:09:26] [CADSurf] meshgems_cadsurf_set_param(css, "correct_surface_intersections",  "1")
+[10:09:26] [CADSurf] meshgems_cadsurf_set_param(css, "intersection_processing_max_cost",  "15")
+[10:09:26] [CADSurf] ==
+[10:09:26] [CADSurf] Status: OK
+[10:09:26] [CADSurf] Number of intersecting edges: 0, total edge count: 421
+[10:09:26] [CADSurf] Number of intersecting faces: 0
+[10:09:26] [CADSurf] - Mesh stats: N=1187, E=421, T=2614, Q=0
+[10:09:26] [CADSurf] Testing watertightness
+[10:09:26] [CADSurf] - OK
+[10:09:26] Creating volume mesh from surface mesh
+[10:09:26] [SrfToVol] Volume meshing: 8 threads will be allocated
+[10:09:26] [SrfToVol] Running CVM
+[10:09:26] [SrfToVol] Surface to volume mesh: verifying input data
+[10:09:26] [SrfToVol] Not meshed regions = 378 379 
+
+[10:09:26] [SrfToVol] Generate volume mesh for 27 subdomains using 8 threads 
+ 
+[10:09:26] [SrfToVol] Setting mesher options for subdomain with id = 355
+gradation = 1.500000
+optimisation_level = standard
+min_size = -1
+max_size = 36.238187
+maxpropa = 2
+
+[10:09:26] [SrfToVol] Setting mesher options for subdomain with id = 356
+gradation = 1.500000
+optimisation_level = standard
+min_size = -1
+max_size = 36.238187
+maxpropa = 2
+
+[10:09:26] [SrfToVol] Setting mesher options for subdomain with id = 357
+gradation = 1.500000
+optimisation_level = standard
+min_size = -1
+max_size = 36.238187
+maxpropa = 2
+
+[10:09:26] [SrfToVol] Setting mesher options for subdomain with id = 358
+gradation = 1.500000
+optimisation_level = standard
+min_size = -1
+max_size = 36.238187
+maxpropa = 2
+
+[10:09:26] [SrfToVol] Setting mesher options for subdomain with id = 359
+gradation = 1.500000
+optimisation_level = standard
+min_size = -1
+max_size = 36.238187
+maxpropa = 2
+
+[10:09:26] [SrfToVol] Setting mesher options for subdomain with id = 360
+gradation = 1.500000
+optimisation_level = standard
+min_size = -1
+max_size = 36.238187
+maxpropa = 2
+
+[10:09:26] [SrfToVol] Setting mesher options for subdomain with id = 361
+gradation = 1.500000
+optimisation_level = standard
+min_size = -1
+max_size = 36.238187
+maxpropa = 2
+
+[10:09:26] [SrfToVol] Setting mesher options for subdomain with id = 362
+gradation = 1.500000
+optimisation_level = standard
+min_size = -1
+max_size = 36.238187
+maxpropa = 2
+
+[10:09:26] [SrfToVol] Start meshing subdomain with id = 355  numTriangles = 24 allUids = 1 2 3 4 5 6 7 57 238 239 240 262 291 302 
+[10:09:26] [SrfToVol] Start meshing subdomain with id = 356  numTriangles = 24 allUids = 8 9 10 11 12 13 14 59 241 242 243 266 279 303 
+[10:09:26] [SrfToVol] Start meshing subdomain with id = 357  numTriangles = 24 allUids = 15 16 17 18 19 20 21 61 244 245 246 270 278 307 
+[10:09:26] [SrfToVol] Start meshing subdomain with id = 358  numTriangles = 24 allUids = 22 23 24 25 26 27 28 63 247 248 249 274 290 306 
+[10:09:26] [SrfToVol] Start meshing subdomain with id = 359  numTriangles = 24 allUids = 29 30 31 32 33 34 35 58 250 251 252 263 287 298 
+[10:09:26] [SrfToVol] Start meshing subdomain with id = 360  numTriangles = 24 allUids = 36 37 38 39 40 41 42 60 253 254 255 267 283 299 
+[10:09:26] [SrfToVol] Start meshing subdomain with id = 361  numTriangles = 24 allUids = 43 44 45 46 47 48 49 62 256 257 258 271 282 295 
+[10:09:26] [SrfToVol] Start meshing subdomain with id = 362  numTriangles = 24 allUids = 50 51 52 53 54 55 56 64 259 260 261 275 286 294 
+[10:09:26] [SrfToVol] Done meshing subdomain with id = 355
+  return value = 0
+  numTets = 24
+[10:09:26] [SrfToVol] Done meshing subdomain with id = 356
+  return value = 0
+  numTets = 24
+[10:09:26] [SrfToVol] Done meshing subdomain with id = 357
+  return value = 0
+  numTets = 24
+[10:09:26] [SrfToVol] Done meshing subdomain with id = 358
+  return value = 0
+  numTets = 24
+[10:09:26] [SrfToVol] Done meshing subdomain with id = 359
+  return value = 0
+  numTets = 24
+[10:09:26] [SrfToVol] Done meshing subdomain with id = 360
+  return value = 0
+  numTets = 24
+[10:09:26] [SrfToVol] Done meshing subdomain with id = 361
+  return value = 0
+  numTets = 24
+[10:09:26] [SrfToVol] Setting mesher options for subdomain with id = 363
+gradation = 1.500000
+optimisation_level = standard
+min_size = -1
+max_size = 36.238187
+maxpropa = 2
+
+[10:09:26] [SrfToVol] Done meshing subdomain with id = 362
+  return value = 0
+  numTets = 24
+[10:09:26] [SrfToVol] Setting mesher options for subdomain with id = 364
+gradation = 1.500000
+optimisation_level = standard
+min_size = -1
+max_size = 36.238187
+maxpropa = 2
+
+[10:09:26] [SrfToVol] Setting mesher options for subdomain with id = 365
+gradation = 1.500000
+optimisation_level = standard
+min_size = -1
+max_size = 36.238187
+maxpropa = 2
+
+[10:09:26] [SrfToVol] Setting mesher options for subdomain with id = 366
+gradation = 1.500000
+optimisation_level = standard
+min_size = -1
+max_size = 36.238187
+maxpropa = 2
+
+[10:09:26] [SrfToVol] Setting mesher options for subdomain with id = 367
+gradation = 1.500000
+optimisation_level = standard
+min_size = -1
+max_size = 36.238187
+maxpropa = 2
+
+[10:09:26] [SrfToVol] Setting mesher options for subdomain with id = 368
+gradation = 1.500000
+optimisation_level = standard
+min_size = -1
+max_size = 36.238187
+maxpropa = 2
+
+[10:09:26] [SrfToVol] Setting mesher options for subdomain with id = 369
+gradation = 1.500000
+optimisation_level = standard
+min_size = -1
+max_size = 36.238187
+maxpropa = 2
+
+[10:09:26] [SrfToVol] Start meshing subdomain with id = 363  numTriangles = 56 allUids = 5 6 7 30 31 35 57 58 153 154 155 219 262 263 264 265 326 333 
+[10:09:26] [SrfToVol] Setting mesher options for subdomain with id = 370
+gradation = 1.500000
+optimisation_level = standard
+min_size = -1
+max_size = 36.238187
+maxpropa = 2
+
+[10:09:26] [SrfToVol] Start meshing subdomain with id = 364  numTriangles = 56 allUids = 12 13 14 36 39 42 59 60 160 161 162 220 266 267 268 269 328 336 
+[10:09:26] [SrfToVol] Start meshing subdomain with id = 365  numTriangles = 56 allUids = 15 18 21 47 48 49 61 62 167 168 169 217 270 271 272 273 321 338 
+[10:09:26] [SrfToVol] Start meshing subdomain with id = 366  numTriangles = 56 allUids = 23 24 28 54 55 56 63 64 174 175 176 218 274 275 276 277 323 331 
+[10:09:26] [SrfToVol] Start meshing subdomain with id = 367  numTriangles = 88 allUids = 8 11 14 19 20 21 59 61 179 180 181 210 278 279 280 281 311 335 
+[10:09:26] [SrfToVol] Start meshing subdomain with id = 368  numTriangles = 88 allUids = 40 41 42 43 46 49 60 62 184 185 186 214 282 283 284 285 316 337 
+[10:09:26] [SrfToVol] Start meshing subdomain with id = 369  numTriangles = 88 allUids = 33 34 35 51 52 56 58 64 189 190 191 216 286 287 288 289 318 332 
+[10:09:26] [SrfToVol] Start meshing subdomain with id = 370  numTriangles = 88 allUids = 2 3 7 26 27 28 57 63 194 195 196 212 290 291 292 293 313 330 
+[10:09:26] [SrfToVol] Done meshing subdomain with id = 363
+  return value = 0
+  numTets = 72
+[10:09:26] [SrfToVol] Done meshing subdomain with id = 364
+  return value = 0
+  numTets = 72
+[10:09:26] [SrfToVol] Done meshing subdomain with id = 365
+  return value = 0
+  numTets = 72
+[10:09:26] [SrfToVol] Done meshing subdomain with id = 366
+  return value = 0
+  numTets = 72
+[10:09:26] [SrfToVol] Done meshing subdomain with id = 367
+  return value = 0
+  numTets = 120
+[10:09:26] [SrfToVol] Done meshing subdomain with id = 368
+  return value = 0
+  numTets = 120
+[10:09:26] [SrfToVol] Done meshing subdomain with id = 369
+  return value = 0
+  numTets = 120
+[10:09:26] [SrfToVol] Done meshing subdomain with id = 370
+  return value = 0
+  numTets = 120
+[10:09:26] [SrfToVol] Setting mesher options for subdomain with id = 371
+gradation = 1.500000
+optimisation_level = standard
+min_size = -1
+max_size = 36.238187
+maxpropa = 2
+
+[10:09:26] [SrfToVol] Setting mesher options for subdomain with id = 372
+gradation = 1.500000
+optimisation_level = standard
+min_size = -1
+max_size = 36.238187
+maxpropa = 2
+
+[10:09:26] [SrfToVol] Setting mesher options for subdomain with id = 373
+gradation = 1.500000
+optimisation_level = standard
+min_size = -1
+max_size = 36.238187
+maxpropa = 2
+
+[10:09:26] [SrfToVol] Setting mesher options for subdomain with id = 374
+gradation = 1.500000
+optimisation_level = standard
+min_size = -1
+max_size = 36.238187
+maxpropa = 2
+
+[10:09:26] [SrfToVol] Setting mesher options for subdomain with id = 375
+gradation = 1.500000
+optimisation_level = standard
+min_size = -1
+max_size = 36.238187
+maxpropa = 2
+
+[10:09:26] [SrfToVol] Setting mesher options for subdomain with id = 376
+gradation = 1.500000
+optimisation_level = standard
+min_size = -1
+max_size = 36.238187
+maxpropa = 2
+
+[10:09:26] [SrfToVol] Setting mesher options for subdomain with id = 377
+gradation = 1.500000
+optimisation_level = standard
+min_size = -1
+max_size = 36.238187
+maxpropa = 2
+
+[10:09:26] [SrfToVol] Setting mesher options for subdomain with id = 380
+gradation = 1.500000
+optimisation_level = standard
+min_size = -1
+max_size = 36.238187
+maxpropa = 2
+
+[10:09:26] [SrfToVol] Start meshing subdomain with id = 371  numTriangles = 88 allUids = 45 46 48 52 53 55 62 64 197 198 199 213 294 295 296 297 315 322 
+[10:09:26] [SrfToVol] Start meshing subdomain with id = 372  numTriangles = 88 allUids = 31 32 34 38 39 41 58 60 200 201 202 215 298 299 300 301 317 327 
+[10:09:26] [SrfToVol] Start meshing subdomain with id = 373  numTriangles = 88 allUids = 3 4 6 10 11 13 57 59 203 204 205 209 302 303 304 305 310 325 
+[10:09:26] [SrfToVol] Start meshing subdomain with id = 374  numTriangles = 88 allUids = 17 18 20 24 25 27 61 63 206 207 208 211 306 307 308 309 312 320 
+[10:09:26] [SrfToVol] Start meshing subdomain with id = 375  numTriangles = 184 allUids = 34 41 46 52 58 60 62 64 185 191 198 202 213 214 215 216 315 316 317 318 319 344 
+[10:09:26] [SrfToVol] Start meshing subdomain with id = 376  numTriangles = 132 allUids = 6 13 31 39 57 58 59 60 154 162 201 205 209 215 219 220 325 326 327 328 329 345 
+[10:09:26] [SrfToVol] Start meshing subdomain with id = 377  numTriangles = 132 allUids = 14 21 42 49 59 60 61 62 161 169 180 186 210 214 217 220 335 336 337 338 339 343 
+[10:09:26] [SrfToVol] Start meshing subdomain with id = 380  numTriangles = 1350 allUids = 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 209 210 211 212 213 214 215 216 217 218 219 220 221 222 225 226 227 228 229 230 231 232 237 340 341 342 343 344 345 346 347 348 349 350 351 352 353 354 
+[10:09:26] [SrfToVol] Done meshing subdomain with id = 371
+  return value = 0
+  numTets = 120
+[10:09:26] [SrfToVol] Done meshing subdomain with id = 372
+  return value = 0
+  numTets = 120
+[10:09:26] [SrfToVol] Done meshing subdomain with id = 373
+  return value = 0
+  numTets = 120
+[10:09:26] [SrfToVol] Done meshing subdomain with id = 374
+  return value = 0
+  numTets = 120
+[10:09:26] [SrfToVol] Done meshing subdomain with id = 375
+  return value = 0
+  numTets = 348
+[10:09:26] [SrfToVol] Done meshing subdomain with id = 376
+  return value = 0
+  numTets = 215
+[10:09:26] [SrfToVol] Setting mesher options for subdomain with id = 381
+gradation = 1.500000
+optimisation_level = standard
+min_size = -1
+max_size = 36.238187
+maxpropa = 2
+
+[10:09:26] [SrfToVol] Done meshing subdomain with id = 377
+  return value = 0
+  numTets = 215
+[10:09:26] [SrfToVol] Setting mesher options for subdomain with id = 382
+gradation = 1.500000
+optimisation_level = standard
+min_size = -1
+max_size = 36.238187
+maxpropa = 2
+
+[10:09:26] [SrfToVol] Setting mesher options for subdomain with id = 383
+gradation = 1.500000
+optimisation_level = standard
+min_size = -1
+max_size = 36.238187
+maxpropa = 2
+
+[10:09:26] [SrfToVol] Start meshing subdomain with id = 381  numTriangles = 132 allUids = 7 28 35 56 57 58 63 64 155 175 190 196 212 216 218 219 330 331 332 333 334 342 
+[10:09:26] [SrfToVol] Start meshing subdomain with id = 382  numTriangles = 132 allUids = 18 24 48 55 61 62 63 64 168 176 199 207 211 213 217 218 320 321 322 323 324 341 
+[10:09:27] [SrfToVol] Start meshing subdomain with id = 383  numTriangles = 184 allUids = 3 11 20 27 57 59 61 63 181 195 204 208 209 210 211 212 310 311 312 313 314 340 
+[10:09:27] [SrfToVol] Done meshing subdomain with id = 381
+  return value = 0
+  numTets = 215
+[10:09:27] [SrfToVol] Done meshing subdomain with id = 382
+  return value = 0
+  numTets = 220
+[10:09:27] [SrfToVol] Done meshing subdomain with id = 383
+  return value = 0
+  numTets = 345
+[10:09:27] [SrfToVol] Done meshing subdomain with id = 380
+  return value = 0
+  numTets = 4727
+[10:09:27] [SrfToVol] Assembling volume mesh
+[10:09:27] [SrfToVol] Volume mesh generated - Status = ok
+[10:09:27] [SrfToVol] - Volume mesh stats: Nb nodes = 1771, Nb edges = 421, Nb surface elements = 2614, Nb tets = 7725
+[10:09:27] Creating mesh topology.
+[10:09:27] Using mesh topology.
+[10:09:27] Writing ACIS sat.tet file because UIDs have changed.
+[10:09:27] Using generalized mesh output routines.
+[10:09:27] Writing Bc file
+[10:09:27] Writing gex file for volume mesh
+[10:09:27] Running model geometry simplification... 
+[10:09:27] Model geometry simplification: 0 seconds
+[10:09:27] Writing topot.tet...
+[10:09:27] Done (topot.tet)
+[10:09:27] Writing moegeom.tet ...
+[10:09:27] Done (moegeom.tet) 
+[10:09:27] Creating volume mesh from surface mesh - done
+[10:09:27] Mesh curving:
+[10:09:27]     available cores:   8
+[10:09:27]     number of threads: 8
+[10:09:27] Curving elements
+[10:09:27]  Curve elements, order = 3
+
+[10:09:27] 
+#### Feedback Report Begins ####
+#### Feedback Report Ends ####
+
+[10:09:27] Done

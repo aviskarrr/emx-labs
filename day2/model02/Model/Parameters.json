@@ -1,0 +1,23 @@
+{
+    "parameters": [
+        {
+            "descr": "length of wire",
+            "expr": "31.23",
+            "name": "L",
+            "value": "31.23"
+        },
+        {
+            "descr": "radius of wire",
+            "expr": "1.5",
+            "name": "R",
+            "value": "1.5"
+        },
+        {
+            "descr": "Pitch of wire",
+            "expr": "36.5",
+            "name": "Zi",
+            "value": "36.5"
+        }
+    ],
+    "version": 1
+}
